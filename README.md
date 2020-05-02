@@ -1,6 +1,9 @@
 # 基于openCV的车牌识别系统
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该车牌识别系统是基于openCV这一开源库进行开发，在参考了网络上的车牌识别系统的情况下，用于学习而开发的一个车牌识别系统。该系统用于识别中文车牌，图片清晰的情况下准确率在60%左右。
 
+## 介绍视频地址
+<https://www.bilibili.com/video/BV1bp4y197Vd?from=search&seid=1710931500925968999>
+
 ## 兼容性与环境配置
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该系统基于openCV3.1和VS2013进行编写，在编译前需要进行相关配置。
 1. 如果当前VS2013是x64的，那么需要先在VS2013菜单栏“生成–>配置管理器”中将工程属性更改为x64，更改方式如下：
